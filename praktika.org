@@ -1,11 +1,11 @@
 
 Задачи:
 
-pr-index
-pr-pr
-pr-st
-pr-doc
-pr-contacts
+pr-index +
+pr-pr + -
+pr-st + -
+pr-doc + -
+pr-contacts + -
 добавление новостей
 форма регистрации
 разделение на обычных пользователей и админов
