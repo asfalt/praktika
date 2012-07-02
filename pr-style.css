@@ -14,7 +14,7 @@ a:hover, .footer a:hover {
 body {
 	background: #769359 url(img/bg.jpg) repeat-y center top;
 	color: #443;
-	font-size: 15px;
+	font-size: 17px;
 	margin: 0;
 }
 p,cite,code,ul {
@@ -102,6 +102,13 @@ cite {
 	color: #FFF;
 	background-position: left bottom;
 }
+
+/* search */
+.search {
+float: right;
+margin-right: 100px
+}
+
 
 /* content */
 .content {
