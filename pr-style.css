@@ -23,6 +23,13 @@ p,cite,code,ul {
 h1 {
 	font: normal 1.2em "Lucida Sans Unicode",times new roman;
 }
+
+table {table-layout: auto;
+       border-collapse: collapse;}
+td {border: 1px solid;
+padding: 0;}
+tr {vertical-align: middle; text-align: center;  height: 30px; }
+
 ul {
 	margin: 12px 0;
 }
@@ -113,6 +120,7 @@ margin-right: 100px
 /* content */
 .content {
 	padding: 18px 0;
+    align: justify;
 }
 .content h1 {
 	color: #553;
