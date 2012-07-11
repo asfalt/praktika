@@ -20,8 +20,15 @@ body {
 p,cite,code,ul {
 	margin-bottom: 1.2em;
 }
+
 h1 {
 	font: normal 1.2em "Lucida Sans Unicode",times new roman;
+}
+
+h2 {
+	font: normal 1.2em "Lucida Sans Unicode",times new roman;
+    text-size: 20px;
+	text-align: justify;
 }
 
 table {table-layout: auto;
@@ -112,8 +119,9 @@ cite {
 
 /* search */
 .search {
-float: right;
-margin-right: 100px
+position: absolute;
+      left: 41%;
+      top: 225px;
 }
 
 
